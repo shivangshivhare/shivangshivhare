@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/NpH31Pl.png" alt="Shivang Raj Shivhare Banner" width="100%" />
+
 
 ### 👋 Hi there, I'm Shivang Raj Shivhare
 
