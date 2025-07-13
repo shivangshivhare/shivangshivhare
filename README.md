@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/NpH31Pl.png" alt="Shivang Raj Shivhare Banner" width="100%" />
+
 ### 👋 Hi there, I'm Shivang Raj Shivhare
 
 As a frontend developer, I specialize in building scalable and intuitive web applications using modern JavaScript technologies. My core strengths lie in **JavaScript**, **React.js**, and the **MERN stack**, with production-level experience in **Next.js**, **Tailwind CSS**, and **TypeScript**, enabling me to craft sleek, performant, and responsive user interfaces.
