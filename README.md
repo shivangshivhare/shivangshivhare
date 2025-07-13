@@ -1,18 +1,41 @@
-
-
 ### 👋 Hi there, I'm Shivang Raj Shivhare
 
-As a frontend developer, I specialize in building scalable and intuitive web applications using modern JavaScript technologies. My core strengths lie in **JavaScript**, **React.js**, and the **MERN stack**, with production-level experience in **Next.js**, **Tailwind CSS**, and **TypeScript**, enabling me to craft sleek, performant, and responsive user interfaces.
+I'm a **Full Stack Web Developer** passionate about crafting scalable, reliable, and efficient web applications. With hands-on experience in the **MERN stack**, I build everything from responsive frontends to optimized backend APIs.
 
-Whether it's designing a real-time academic collaboration platform, optimizing API performance, or creating e-commerce solutions with seamless user flows, I love solving real-world problems with clean code and thoughtful UX.
-
-I’m committed to continuous learning, keeping up with the latest frontend trends, and contributing to impactful projects. My adaptability and attention to detail make me a reliable team player who’s always ready to build, improve, and collaborate.
+I’ve developed and led impactful projects like a **real-time academic collaboration platform**, a **traffic violation detection system**, and a **secure e-commerce platform**. Whether it's building sleek UIs with React or writing scalable backend logic with Node.js and MongoDB, I thrive on solving real-world problems through code.
 
 ---
 
-🌍  I'm based in **Bhopal, India**  
-💻  Check out my portfolio: [Visit My Portfolio](#)  
-📧  Reach me at **iamshivangshivhare@gmail.com**  
-🧠  Passionate about open source & building real-world apps  
-🤝  I'm open to collaborating on exciting frontend projects  
-🚀  Tech I love: React • Next.js • Tailwind CSS • TypeScript • Node.js • MongoDB
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** JavaScript (ES6+), TypeScript, Python, C++, HTML5, CSS3, SQL  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Angular (basics)  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **APIs:** RESTful APIs, GraphQL (basic), Axios, Postman  
+- **State Management:** Redux, Context API  
+- **Tools & Platforms:** Git, GitHub, Vite, NPM, Yarn, Webpack  
+- **Testing:** Jest, Unit Testing, Integration Testing  
+- **DevOps & Cloud:** AWS (basics), Netlify, Vercel  
+- **Other:** OpenCV (Python), Figma, Responsive Design, Performance Optimization
+
+---
+
+### 🚀 Highlight Projects
+
+- **Tech-Inspire:** MERN-based academic platform featuring multilingual support, plagiarism detection, and real-time collaboration. Optimized API latency by 30% and scaled for 500+ users.  
+- **Traffic Violation Detection System:** Built with OpenCV + Python, achieved 95% accuracy in violation detection, automated reporting, and real-time alerts.  
+- **E-Commerce Website:** Developed an SEO-optimized jewellery e-commerce platform using React and Node. Increased traffic by 50%, enhanced payment security, and reduced cart abandonment.
+
+---
+
+### 📫 Let's Connect
+
+📍 Bhopal, India  
+📧 **iamshivangshivhare@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivang-shivhare-9b8b36267)  
+🌐 *Portfolio coming soon...*
+
+---
+
+💬 *Always open to building, collaborating, and learning. Let’s code something impactful together!*
