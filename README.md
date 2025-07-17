@@ -34,7 +34,7 @@ I’ve developed and led impactful projects like a **real-time academic collabor
 📍 Bhopal, India  
 📧 **iamshivangshivhare@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivang-shivhare-9b8b36267)  
-🌐 *Portfolio coming soon...*
+🌐 *Portfolio (https://shivangrajshivhare.vercel.app/)
 
 ---
 
