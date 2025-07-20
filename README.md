@@ -30,7 +30,6 @@ I’ve developed and led impactful projects like a **real-time academic collabor
 ---
 
 ### 📫 Let's Connect
-
 📍 Bhopal, India  
 📧 **iamshivangshivhare@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivang-shivhare-9b8b36267)  
