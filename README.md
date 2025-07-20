@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Shivang Raj Shivhare
-
+  
 I'm a **Full Stack Web Developer** passionate about crafting scalable, reliable, and efficient web applications. With hands-on experience in the **MERN stack**, I build everything from responsive frontends to optimized backend APIs.
 
 I’ve developed and led impactful projects like a **real-time academic collaboration platform**, a **traffic violation detection system**, and a **secure e-commerce platform**. Whether it's building sleek UIs with React or writing scalable backend logic with Node.js and MongoDB, I thrive on solving real-world problems through code.
