@@ -1,4 +1,4 @@
-        ### 👋 Hi there, I'm Shivang Raj Shivhare    
+         ### 👋 Hi there, I'm Shivang Raj Shivhare    
   
 I'm a **Full Stack Web Developer** passionate about crafting scalable, reliable, and efficient web applications. With hands-on experience in the **MERN stack**, I build everything from responsive frontends to optimized backend APIs.
 
