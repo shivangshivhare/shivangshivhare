@@ -59,41 +59,11 @@ I’ve developed and deployed impactful projects across domains like:
 
 ---
 
-### 📌 Featured Repositories
-
-- 🔍 [**Cardify**](https://github.com/shivangshivhare/Find-credit-cards-with-AI)  
-  ![Stars](https://img.shields.io/github/stars/shivangshivhare/Find-credit-cards-with-AI?style=social)
-  ![Forks](https://img.shields.io/github/forks/shivangshivhare/Find-credit-cards-with-AI?style=social)
-
-- 🚦 [**Traffic Violation Detection**](https://github.com/shivangshivhare/traffic-violation-control-system)  
-  ![Stars](https://img.shields.io/github/stars/shivangshivhare/traffic-violation-control-system?style=social)
-
-- 🍴 [**ZaikaMap**](https://github.com/shivangshivhare/ZaikaMap)  
-  ![Stars](https://img.shields.io/github/stars/shivangshivhare/ZaikaMap?style=social)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangshivhare&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangshivhare&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangshivhare&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivangshivhare&theme=radical&column=3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivangshivhare&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangshivhare&layout=compact&theme=radical" alt="Top Languages" height="165">
 </p>
 
 ---
