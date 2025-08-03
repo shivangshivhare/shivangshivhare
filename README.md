@@ -4,6 +4,12 @@
 💻 **Full Stack Developer** | MERN Stack | AI-Driven Web Apps  
 📍 Based in Bhopal, India
 
+![visitors](https://komarev.com/ghpvc/?username=shivangshivhare&label=Profile%20views&color=0e75b6&style=flat)
+![followers](https://img.shields.io/github/followers/shivangshivhare?label=Followers&style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivang-shivhare-9b8b36267)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://shivangrajshivhare.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:iamshivangshivhare@gmail.com)
+
 ---
 
 ### 🧠 About Me
@@ -53,10 +59,19 @@ I’ve developed and deployed impactful projects across domains like:
 
 ---
 
-### 📫 Connect with Me
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivangshivhare&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangshivhare&layout=compact&theme=radical" alt="Top Languages" height="165">
+</p>
+
+---
+
+### 📫 Contact
 
 📧 **iamshivangshivhare@gmail.com**  
-📱 +91 9009513666  
+📞 +91 9009513666  
 🔗 [Portfolio](https://shivangrajshivhare.vercel.app)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivang-shivhare-9b8b36267)  
 🔗 [GitHub](https://github.com/shivangshivhare)
