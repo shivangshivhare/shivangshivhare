@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Shivang Raj Shivhare
+### 👋 Hi, I'm Shivang Raj Shivhare 
 
 🎓 **Computer Science Graduate (AIADS)** from LNCT Bhopal  
 💻 **Full Stack Developer** | MERN Stack | AI-Driven Web Apps  
