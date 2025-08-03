@@ -1,40 +1,66 @@
-  ### 👋 Hi there, I'm Shivang Raj Shivhare    
-  
-I'm a **Full Stack Web Developer** passionate about crafting scalable, reliable, and efficient web applications. With hands-on experience in the **MERN stack**, I build everything from responsive frontends to optimized backend APIs.
+### 👋 Hi, I'm Shivang Raj Shivhare
 
-I’ve developed and led impactful projects like a **real-time academic collaboration platform**, a **traffic violation detection system**, and a **secure e-commerce platform**. Whether it's building sleek UIs with React or writing scalable backend logic with Node.js and MongoDB, I thrive on solving real-world problems through code.
+🎓 **Computer Science Graduate (AIADS)** from LNCT Bhopal  
+💻 **Full Stack Developer** | MERN Stack | AI-Driven Web Apps  
+📍 Based in Bhopal, India
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧠 About Me
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, C++, HTML5, CSS3, SQL  
-- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Angular (basics)  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **APIs:** RESTful APIs, GraphQL (basic), Axios, Postman  
-- **State Management:** Redux, Context API  
-- **Tools & Platforms:** Git, GitHub, Vite, NPM, Yarn, Webpack  
-- **Testing:** Jest, Unit Testing, Integration Testing  
-- **DevOps & Cloud:** AWS (basics), Netlify, Vercel  
-- **Other:** OpenCV (Python), Figma, Responsive Design, Performance Optimization
+I'm a full stack developer passionate about solving real-world problems through clean, scalable, and performant code. With strong expertise in the **MERN stack**, I build everything from intuitive user interfaces to robust backend systems.
+
+I’ve developed and deployed impactful projects across domains like:
+- 🧾 **FinTech** – AI-powered credit card discovery platform
+- 🛣️ **Mobility** – Real-time traffic violation detection system
+- 🍽️ **Lifestyle** – Restaurant recommendation engine with Google Maps integration
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`JavaScript` `TypeScript` `Python` `C++` `Java` `SQL` `HTML` `CSS`
+
+**Frontend:**  
+`React.js` `Next.js` `Tailwind CSS` `Bootstrap` `Angular (basic)`
+
+**Backend & DB:**  
+`Node.js` `Express.js` `MongoDB` `MySQL`
+
+**APIs & Tools:**  
+`Google Gemini API` `OpenCV` `Axios` `Postman` `REST`  
+`Git` `GitHub` `Figma` `Vite` `Webpack` `Vercel` `AWS (basic)`
+
+**Concepts:**  
+`Data Structures & Algorithms` `OOP` `System Design` `Unit Testing`
 
 ---
 
 ### 🚀 Highlight Projects
 
-- **Tech-Inspire:** MERN-based academic platform featuring multilingual support, plagiarism detection, and real-time collaboration. Optimized API latency by 30% and scaled for 500+ users.  
-- **Traffic Violation Detection System:** Built with OpenCV + Python, achieved 95% accuracy in violation detection, automated reporting, and real-time alerts.  
-- **E-Commerce Website:** Developed an SEO-optimized jewellery e-commerce platform using React and Node. Increased traffic by 50%, enhanced payment security, and reduced cart abandonment.
+- 🔍 [**Cardify**](https://find-credit-cards-with-ai.vercel.app) – AI-powered credit card finder using Gemini API  
+- 🚦 [**Traffic Violation Detection System**](https://github.com/shivangshivhare/traffic-violation-control-system) – OpenCV + Python + real-time alerts  
+- 🍴 [**ZaikaMap**](https://zaikamap.vercel.app/) – Smart restaurant recommendation app with geolocation filters
 
 ---
 
-### 📫 Let's Connect
-📍 Bhopal, India  
+### 🏆 Achievements
+
+- 🥇 **Smart India Hackathon 2023** – Led a 6-member team; delivered full-stack solution ahead of schedule  
+- 🧠 **Chegg Subject Expert** – Solved 150+ advanced CS queries with 95% accuracy  
+- 📈 Built optimized dashboards, automation tools & real-time systems
+
+---
+
+### 📫 Connect with Me
+
 📧 **iamshivangshivhare@gmail.com**  
+📱 +91 9009513666  
+🔗 [Portfolio](https://shivangrajshivhare.vercel.app)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivang-shivhare-9b8b36267)  
-🔗 [Portfolio](https://shivangrajshivhare.vercel.app/)
+🔗 [GitHub](https://github.com/shivangshivhare)
 
 ---
 
-💬 *Always open to building, collaborating, and learning. Let’s code something impactful together!*
+💬 *Let’s collaborate and build something impactful!*
